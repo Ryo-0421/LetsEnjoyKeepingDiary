@@ -3,3 +3,10 @@ I'm  hungry.
 It's sunny. by michiru
 
 Konnitiha. By Nakamura
+
+	Hello, everyone. My name is Ryo. Just yesterday, I attended a workshop in my company regarding how to use Github, which is basically a tool to store programming data
+As this is not the first time I used Github, the workshop was basically a review of what I always do with my PC.The thing, though, is we need to keep diaries to grasp the concept of Github, 
+and in my view, It's a great idea to form the habit of something to get familialized with it.I could go and go about a bunch of pointless stuff, but this is the first diary I wrote,so I 'll finish it. 
+I'l be making a little more effort to write  something better. 
+
+Ryo    July 3, 2022
